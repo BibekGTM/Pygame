@@ -1,2 +1,2 @@
 # Pygame
-simple 2d games
+Here you can find simple pygame codes(python)
